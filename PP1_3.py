@@ -10,6 +10,7 @@ def q1():
     print("* * * * * *")
     print(" * * * * * *")
     print("* * * * * *")
+    print()
 
 
 
@@ -18,7 +19,7 @@ def q1():
     print("*       *")
     print("*       *")
     print("* * * * *")
-
+    print()
 
 
     print("* * * * * *")
